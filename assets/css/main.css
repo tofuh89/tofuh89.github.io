@@ -606,8 +606,9 @@ img {
 				-webkit-transition: opacity .25s ease-in-out;
 				-ms-transition: opacity .25s ease-in-out;
 				transition: opacity .25s ease-in-out;
-				width: 5.5em;
-				margin-left: -2.75em;
+				width: 7.5em;
+				/*Line below adjusts position of hover text box after width adjusted above*/
+				margin-left: -3.75em; 
 			}
 
 				#nav a span:after {
@@ -918,7 +919,7 @@ img {
 /* Footer */
 
 	#footer {
-		color: rgba(255, 255, 255, 0.45);
+		color: rgba(255, 255, 255, 255);
 		text-align: center;
 		padding: 2em 0 0 0;
 		font-size: 0.75em;
