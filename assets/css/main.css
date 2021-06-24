@@ -34,6 +34,11 @@ section, summary, time, mark, audio, video {
 	font-size: 0.800em;
 }
 
+ .contactinfo {
+	 font-size: 0.800em;
+	 color: #ADCE71;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
