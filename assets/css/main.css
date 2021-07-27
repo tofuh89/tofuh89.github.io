@@ -566,7 +566,7 @@ img {
 
 	#nav {
 		text-align: center;
-		height: 4.25em;
+		height: 3.25em;
 		cursor: default;
 	}
 
@@ -577,7 +577,7 @@ img {
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
-			font-size: 2.5em;
+			font-size: 2em;
 			margin: 0 0.25em 0 0.25em;
 			opacity: 0.35;
 			outline: 0;
